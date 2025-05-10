@@ -1,0 +1,2 @@
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([["35245"],{333582:function(_,n,i){_.exports={locale:"id-ID",i18nStrings:void 0,plural:i(219114)}},219114:function(_){_.exports=function(_){return 0}}}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/locale-id_ID-data-js-e7429a5fcdf79fad.mjs.map
